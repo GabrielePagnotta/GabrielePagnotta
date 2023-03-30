@@ -1,5 +1,6 @@
 # readme# 💫 About Me:
-📚Studente Boolean<br>💻C#,PHP,Javascript,Sql<br>🇮🇹Venezia<br><br>
+📚Studente Boolean<br>💻C#,PHP,Javascript,Sql<br![ItalyFlagGIF](https://user-images.githubusercontent.com/110975140/228696816-5dd39bb9-07f3-4d96-9052-d35626187412.gif)
+Venezia<br><br>
 
 
 ## 🌐 Socials:
