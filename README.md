@@ -1,4 +1,4 @@
-# readme# 💫 About Me:
+# Ciao mi chiamo Gabriele:
 📚Studente Boolean<br>💻C#,PHP,Javascript,Sql<br>Venezia
 
 
