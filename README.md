@@ -1,5 +1,5 @@
 # Ciao mi chiamo Gabriele:
-📚Studente Boolean<br>💻C#,PHP,JAVASCRIPT,SQL<br>Venezia
+📚Studente Academy Betacom<br>💻C#,PHP,JAVASCRIPT,SQL<br>Venezia
 
 
 
