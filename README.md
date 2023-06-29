@@ -1,21 +1,66 @@
-# Ciao mi chiamo Gabriele:
-📚Studente Academy Betacom<br>💻C#,PHP,JAVASCRIPT,SQL<br>Venezia
+<p align="center">
+    <b>Welcome to my page!</b><br><br>
+    <i>
+        HEllo I'm Gabriele<br>
+        I'm currenty studying .NET<br>
+    </i><br>
+    <a href="https://www.linkedin.com/in/gabriele-pagnotta-7645b316b/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+    </a>
+    <a href="mailto:gabriele.pagnotta.dev@gmail.com">
+        <img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
+    </a>
+    
+    
+</p>
 
+### Languages
+[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/GabrielePagnotta)
+[![C#](	https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/GabrielePagnotta)
+[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/GabrielePagnotta)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/GabrielePagnotta)
 
+### Technologies & Frameworks
+[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/GabrielePagnotta)
+[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/GabrielePagnotta)
+[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/GabrielePagnotta)
+[![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://github.com/GabrielePagnotta)
+[![VUE](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)](https://github.com/GabrielePagnotta)
+[![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/GabrielePagnotta)
+[![LARAVEL](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://github.com/GabrielePagnotta)
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]([https://facebook.com/Gabriele Pagnotta](https://www.facebook.com/gabriele.pagnotta.50/))<br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Gabriele Pagnotta](https://www.linkedin.com/in/gabriele-pagnotta-7645b316b/))<br>
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([[https://instagram.com/Gabriele_Pagnotta](https://www.instagram.com/gabriele_pagnotta)]
+### OS
+[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/GabrielePagnotta)
+[![OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/GabrielePagnotta)
 
+<details>
+<p align="center">
+  <a href="https://github.com/GabrielePagnotta">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielePagnotta&theme=transparent" />
+  </a>
+  <a href="https://github.com/GabrielePagnotta">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielePagnotta&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/GabrielePagnotta">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GabrielePagnotta&theme=transparent" />
+  </a>
+  
+</p>
+</details>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-# 📊 GitHub Stats:
-![🧑‍💻][(https://github-readme-stats.vercel.app/api?username=Gabriele Pagnotta&theme=dracula&hide_border=false&include_all_commits=true&count_private=false](https://github.com/GabrielePagnotta/BoolBnB-Final-Project))<br/>
+<p align="center">
+  <a href="https://github.com/GabrielePagnotta">
+    <img src="https://komarev.com/ghpvc/?username=GabrielePagnotta&color=blue&style=flat)" />
+  </a>
+</p>
+<!--
 
-
----
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
