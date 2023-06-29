@@ -2,7 +2,7 @@
 
 <p align="center">
     <b>Welcome to my page!</b><br><br>
-    <h1>
+    <h1 align="center">
          Hello I'm Gabriele<br>
          I'm currenty studying .NET<br>
     </h1><br>
