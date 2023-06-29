@@ -1,9 +1,9 @@
 <p align="center">
     <b>Welcome to my page!</b><br><br>
-    <i>
-        # Hello I'm Gabriele<br>
-        ## I'm currenty studying .NET<br>
-    </i><br>
+    <h1>
+         Hello I'm Gabriele<br>
+         I'm currenty studying .NET<br>
+    </h1><br>
     <a href="https://www.linkedin.com/in/gabriele-pagnotta-7645b316b/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
