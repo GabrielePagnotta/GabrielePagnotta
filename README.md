@@ -2,10 +2,7 @@
 
 <p align="center">
     <b>Welcome to my page!</b><br><br>
-    <h1 align="center">
-               I'm Gabriele<br>
-         I'm currenty studying .NET<br>
-    </h1><br>
+    <br>
     <a href="https://www.linkedin.com/in/gabriele-pagnotta-7645b316b/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
